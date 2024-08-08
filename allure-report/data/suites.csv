@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 20 13:51:06 MSK 2024","Thu Jun 20 13:51:12 MSK 2024","6354","tests.test_api","API tests","","","","Проверка поля ""description"" созданного обращения",""
+"passed","Thu Jun 20 13:50:45 MSK 2024","Thu Jun 20 13:50:52 MSK 2024","6498","tests.test_api","API tests","","","","Проверка status-кода запроса",""
+"passed","Thu Jun 20 13:50:52 MSK 2024","Thu Jun 20 13:50:59 MSK 2024","6360","tests.test_api","API tests","","","","Проверка поля ""subject"" созданного обращения",""
+"passed","Thu Jun 20 13:50:59 MSK 2024","Thu Jun 20 13:51:05 MSK 2024","6314","tests.test_api","API tests","","","","Проверка поля ""short_name"" созданного обращения",""
+"passed","Thu Jun 20 13:51:26 MSK 2024","Thu Jun 20 13:51:33 MSK 2024","6595","tests.test_api","API tests","","","","Сравнение значения поля ""short_name"" обращения в ВП и в БД",""
+"passed","Thu Jun 20 13:51:12 MSK 2024","Thu Jun 20 13:51:18 MSK 2024","6350","tests.test_api","API tests","","","","Проверка поля ""date_entered"" созданного обращения",""
+"passed","Thu Jun 20 13:51:19 MSK 2024","Thu Jun 20 13:51:26 MSK 2024","7075","tests.test_api","API tests","","","","Сравнение значения поля ""subject"" обращения в ВП и в БД",""
